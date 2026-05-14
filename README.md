@@ -48,7 +48,7 @@ Designed an AI-enabled PM workflow system to streamline documentation, meeting m
 - Improved clarity and tracking of project execution
 - Faster turnaround of project documentation and reporting
 
-🔗 GitHub Project: [https://github.com/lena260650/ai-pmo-workflow-optimization]  
+🔗 GitHub Project: https://github.com/lena260650/ai-pmo-workflow-optimization
 
 ---
 
@@ -74,8 +74,8 @@ Designed an AI-enabled PM workflow system to streamline documentation, meeting m
 
 ## 📫 Connect With Me
 
-- LinkedIn: [www.linkedin.com/in/elena-zotovayour-link]
-- GitHub: [https://github.com/lena260650]
+- LinkedIn: www.linkedin.com/in/elena-zotovayour-link
+- GitHub: https://github.com/lena260650
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lena260650&show_icons=true)
 ![PMP](https://img.shields.io/badge/PMP-Certified-blue)
 ![AI](https://img.shields.io/badge/AI-Workflow-green)
